@@ -1,5 +1,20 @@
-# Expense Tracker – SQL Relational Databases
+# Expense Tracker – SQL Relational Databases and Hello World
 # Overview
+
+This project is a simple "Hello World" program written in SQL.
+The program creates a table, inserts a message and retrieves the message from the database.
+
+This project demostrates basic SQL operations such as:
+
+- Creating a table
+- Inserting data
+- Querying data
+
+Programming Language:
+
+- SQL
+
+[Software Demo Video](https://youtu.be/-klSyyOD_WA)
 
 This project is a simple Expense Tracker built using a relational database.
 The goal of the project is to demonstrate the use of SQL relational databases to store, retrieve, modify, and summarize data.
