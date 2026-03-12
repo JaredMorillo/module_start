@@ -12,7 +12,8 @@
             "driver": "MySQL",
             "name": "Hello_World",
             "username": "root",
-            "database": "hello_world"
+            "database": "expense_tracker",
+            "askForPassword": true
         }
     ]
 }
